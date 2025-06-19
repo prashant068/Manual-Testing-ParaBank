@@ -12,7 +12,7 @@ This project contains detailed manual test documentation for ParaBank’s core b
 - Test Plan (IEEE 829)
 - Test Scenarios
 - Test Cases
-- Bug Report Template + Samples
+- Bug Report 
 - Requirement Traceability Matrix
 - Test Summary Report
 
